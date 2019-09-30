@@ -1,0 +1,59 @@
+C:\Users\Cholis\AppData\Local\Temporary Projects\Tik\bin\Debug\Tik.exe
+C:\Users\Cholis\AppData\Local\Temporary Projects\Tik\bin\Debug\Tik.pdb
+C:\Users\Cholis\AppData\Local\Temporary Projects\Tik\bin\Debug\Tik.xml
+C:\Users\Cholis\AppData\Local\Temporary Projects\Tik\obj\Debug\Tik.base.resources
+C:\Users\Cholis\AppData\Local\Temporary Projects\Tik\obj\Debug\Tik.Resources.resources
+C:\Users\Cholis\AppData\Local\Temporary Projects\Tik\obj\Debug\Tik.vbproj.GenerateResource.Cache
+C:\Users\Cholis\AppData\Local\Temporary Projects\Tik\obj\Debug\Tik.exe
+C:\Users\Cholis\AppData\Local\Temporary Projects\Tik\obj\Debug\Tik.xml
+C:\Users\Cholis\AppData\Local\Temporary Projects\Tik\obj\Debug\Tik.pdb
+C:\Users\Cholis\AppData\Local\Temporary Projects\Tik\obj\Debug\Tik.vbprojResolveAssemblyReference.cache
+C:\Users\Cholis\AppData\Local\Temporary Projects\Tik\obj\Debug\Tik.A.resources
+D:\bek ap\ViS\Tik\Tik\bin\Debug\Tik.exe
+D:\bek ap\ViS\Tik\Tik\bin\Debug\Tik.pdb
+D:\bek ap\ViS\Tik\Tik\bin\Debug\Tik.xml
+D:\bek ap\ViS\Tik\Tik\obj\Debug\Tik.vbprojAssemblyReference.cache
+D:\bek ap\ViS\Tik\Tik\obj\Debug\Tik.A.resources
+D:\bek ap\ViS\Tik\Tik\obj\Debug\Tik.B.resources
+D:\bek ap\ViS\Tik\Tik\obj\Debug\Tik.Resources.resources
+D:\bek ap\ViS\Tik\Tik\obj\Debug\Tik.base.resources
+D:\bek ap\ViS\Tik\Tik\obj\Debug\Tik.usai.resources
+D:\bek ap\ViS\Tik\Tik\obj\Debug\Tik.vbproj.GenerateResource.cache
+D:\bek ap\ViS\Tik\Tik\obj\Debug\Tik.vbproj.CoreCompileInputs.cache
+D:\bek ap\ViS\Tik\Tik\obj\Debug\Tik.exe
+D:\bek ap\ViS\Tik\Tik\obj\Debug\Tik.xml
+D:\bek ap\ViS\Tik\Tik\obj\Debug\Tik.pdb
+D:\bek ap\ViS\Tik\Tik\obj\Debug\Tik.C.resources
+H:\ViS\Tik\Tik\bin\Debug\Tik.exe
+H:\ViS\Tik\Tik\bin\Debug\Tik.pdb
+H:\ViS\Tik\Tik\bin\Debug\Tik.xml
+H:\ViS\Tik\Tik\obj\Debug\Tik.vbprojAssemblyReference.cache
+H:\ViS\Tik\Tik\obj\Debug\Tik.A.resources
+H:\ViS\Tik\Tik\obj\Debug\Tik.B.resources
+H:\ViS\Tik\Tik\obj\Debug\Tik.C.resources
+H:\ViS\Tik\Tik\obj\Debug\Tik.Resources.resources
+H:\ViS\Tik\Tik\obj\Debug\Tik.base.resources
+H:\ViS\Tik\Tik\obj\Debug\Tik.usai.resources
+H:\ViS\Tik\Tik\obj\Debug\Tik.vbproj.GenerateResource.cache
+H:\ViS\Tik\Tik\obj\Debug\Tik.vbproj.CoreCompileInputs.cache
+H:\ViS\Tik\Tik\obj\Debug\Tik.exe
+H:\ViS\Tik\Tik\obj\Debug\Tik.xml
+H:\ViS\Tik\Tik\obj\Debug\Tik.pdb
+E:\backup\ViS\Tik\Tik\bin\Debug\Tik.exe
+E:\backup\ViS\Tik\Tik\bin\Debug\Tik.pdb
+E:\backup\ViS\Tik\Tik\bin\Debug\Tik.xml
+E:\backup\ViS\Tik\Tik\obj\Debug\Tik.A.resources
+E:\backup\ViS\Tik\Tik\obj\Debug\Tik.B.resources
+E:\backup\ViS\Tik\Tik\obj\Debug\Tik.C.resources
+E:\backup\ViS\Tik\Tik\obj\Debug\Tik.Resources.resources
+E:\backup\ViS\Tik\Tik\obj\Debug\Tik.base.resources
+E:\backup\ViS\Tik\Tik\obj\Debug\Tik.usai.resources
+E:\backup\ViS\Tik\Tik\obj\Debug\Tik.vbproj.GenerateResource.cache
+E:\backup\ViS\Tik\Tik\obj\Debug\Tik.vbproj.CoreCompileInputs.cache
+E:\backup\ViS\Tik\Tik\obj\Debug\Tik.exe
+E:\backup\ViS\Tik\Tik\obj\Debug\Tik.xml
+E:\backup\ViS\Tik\Tik\obj\Debug\Tik.pdb
+E:\backup\ViS\Tik\Tik\obj\Debug\Tik.vbprojAssemblyReference.cache
+E:\backup\ViS\Tik\Tik\bin\Debug\Tik.exe.config
+E:\backup\ViS\Tik\Tik\obj\Debug\Tik.Hi.resources
+E:\backup\ViS\Tik\Tik\obj\Debug\Tik.HiSkor.resources
