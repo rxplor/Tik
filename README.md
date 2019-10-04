@@ -19,3 +19,9 @@ Fitur terkini:
 - Fitur Reset (skor tinggi bisa dihapus dan Mode C bisa dikunci lagi)
 - Mode Malam (tampilan malam diaktifkan saat pukul 17.00 hingga pukul 5.59)
 - Tersedia fitur Simpan (ini akan menyimpan skor tinggi kamu)
+
+Unduh di sini:
+https://github.com/rxplor/Tik/blob/master/Tik/bin/Debug/Tik.exe
+
+Bilamana ada masalah dengan program, sila hubungi saya di
+roadxplor@gmail.com
