@@ -20,8 +20,14 @@ Fitur terkini:
 - Mode Malam (tampilan malam diaktifkan saat pukul 17.00 hingga pukul 5.59)
 - Tersedia fitur Simpan (ini akan menyimpan skor tinggi kamu)
 
-Unduh di sini:
+Pranala unduh:
 https://github.com/rxplor/Tik/blob/master/Tik/bin/Debug/Tik.exe
 
-Bilamana ada masalah dengan program, sila hubungi saya di
-roadxplor@gmail.com
+Bilamana terdapat masalah berikut, sila hubungi saya di roadxplor@gmail.com
+- Masalah program
+- Permintaan fitur
+- Kritik maupun saran
+
+Persyaratan Sistem
+- Windows NT atau lebih baru
+- .NET 4.0 atau lebih baru
